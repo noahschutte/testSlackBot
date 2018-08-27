@@ -1,3 +1,7 @@
 node_modules
-.env
 auth.js
+config/yubikeyConfig.js
+config/slackConfig.js
+config/adminConfig.js
+whitelist/*
+.idea
